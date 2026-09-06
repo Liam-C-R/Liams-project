@@ -1,0 +1,20 @@
+<html>
+    <head>    <title><h1><b>Liam Ricks</b></title>
+        <style type="css/text">
+            div{
+    background-color: rgb(163,223,277);
+    height: 100px;
+    width: 100px;
+}
+body {
+    background-color: rgb(0,125,2);
+}
+        </style>
+    </head>
+        <body><h2>This is about Liam Ricks and his first code with by himself.</h2>
+    <div>
+        I like to code. It is fun.
+    </div>
+    <a href="https://www.costco.com/s?keyword=lemonade">I like Costco and lemonade</a>
+</body>
+<html>
